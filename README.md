@@ -15,7 +15,10 @@ Aunque la ubicación de una foto a menudo se puede obtener mirando los metadatos
 </p>
 
 
-## Instrucciones del proyecto
+## 📑 Instrucciones del proyecto
+
+### Información del conjunto de datos
+The landmark images are a subset of the Google Landmarks Dataset v2.
 
 ### Procedimientos iniciales
 1. Abrir un terminal y clonar el repositorio, luego navegar a la carpeta descargada:
@@ -48,20 +51,21 @@ Ahora que tiene un entorno de trabajo, realice los siguientes pasos:
 3. Abre `app.ipynb` y sigue las instrucciones ahí
 
 
-## Información del conjunto de datos
-The landmark images are a subset of the Google Landmarks Dataset v2.
+## Resultado
+Se obtuvo una precisión del 72% predictivo
 
-### Resultado
-La prediccion tuvo una precisión del 72%
-
+|---|---|
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/09.Golden_Gate_Bridge/190f3bae17c32c37.jpg" > </kbd> <br>
     Image — 09.Golden_Great_Bridge
 </p>
+|
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/16.Eiffel_Tower/3828627c8730f160.jpg" > </kbd> <br>
     Image — 16.Eiffel_Tower
 </p>
+
+|
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/24.Soreq_Cave/18dbbad48a83a742.jpg" > </kbd> <br>
     Image — 24.Soreq_Cave

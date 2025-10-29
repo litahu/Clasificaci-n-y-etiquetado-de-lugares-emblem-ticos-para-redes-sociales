@@ -54,7 +54,7 @@ Ahora que tiene un entorno de trabajo, realice los siguientes pasos:
 ## Resultado
 Se obtuvo una precisión del 72% predictivo
 
-|---|---|
+---|---|---|---|---
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/09.Golden_Gate_Bridge/190f3bae17c32c37.jpg" > </kbd> <br>
     Image — 09.Golden_Great_Bridge

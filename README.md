@@ -50,3 +50,28 @@ Ahora que tiene un entorno de trabajo, realice los siguientes pasos:
 
 ## Información del conjunto de datos
 The landmark images are a subset of the Google Landmarks Dataset v2.
+
+### Resultado
+La prediccion tuvo una precisión del 72%
+
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/09.Golden_Gate_Bridge/190f3bae17c32c37.jpg" > </kbd> <br>
+    Image — 09.Golden_Great_Bridge
+</p>
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/16.Eiffel_Tower/3828627c8730f160.jpg" > </kbd> <br>
+    Image — 16.Eiffel_Tower
+</p>
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/24.Soreq_Cave/18dbbad48a83a742.jpg" > </kbd> <br>
+    Image — 24.Soreq_Cave
+</p>
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/37.Atomium/5ecb74282baee5aa.jpg" > </kbd> <br>
+    Image — 37.Atomium
+</p>
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/41.Machu_Picchu/4336abf3179202f2.jpg" > </kbd> <br>
+    Image —  41.Machu_Picchu
+</p>
+

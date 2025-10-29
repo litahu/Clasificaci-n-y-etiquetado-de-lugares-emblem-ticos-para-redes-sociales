@@ -17,10 +17,10 @@ Aunque la ubicación de una foto a menudo se puede obtener mirando los metadatos
 
 ## 📑 Instrucciones del proyecto
 
-### Información del conjunto de datos
+**Información del conjunto de datos**
 The landmark images are a subset of the Google Landmarks Dataset v2.
 
-### Procedimientos iniciales
+**Procedimientos iniciales**
 1. Abrir un terminal y clonar el repositorio, luego navegar a la carpeta descargada:
 	
 	```	
@@ -43,7 +43,7 @@ The landmark images are a subset of the Google Landmarks Dataset v2.
         pip install -r requirements.txt
     ```
 
-### Desarrollo del proyecto
+**Desarrollo del proyecto**
 Ahora que tiene un entorno de trabajo, realice los siguientes pasos:
 
 1. Abre el `cnn_from_scratch.ipynb` notebook y sigue las instrucciones
@@ -55,6 +55,7 @@ Ahora que tiene un entorno de trabajo, realice los siguientes pasos:
 Se obtuvo una precisión del 72% predictivo
 
 ---|---|---|---|---
+
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/09.Golden_Gate_Bridge/190f3bae17c32c37.jpg" > </kbd> <br>
     Image — 09.Golden_Great_Bridge
@@ -70,10 +71,14 @@ Se obtuvo una precisión del 72% predictivo
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/24.Soreq_Cave/18dbbad48a83a742.jpg" > </kbd> <br>
     Image — 24.Soreq_Cave
 </p>
+
+|
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/37.Atomium/5ecb74282baee5aa.jpg" > </kbd> <br>
     Image — 37.Atomium
 </p>
+
+|
 <p align="center">
     <kbd> <img width="300" alt="jkhjk" src= "https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales/blob/main/static_images/test/41.Machu_Picchu/4336abf3179202f2.jpg" > </kbd> <br>
     Image —  41.Machu_Picchu
